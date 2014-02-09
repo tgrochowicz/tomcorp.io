@@ -14,13 +14,14 @@
     "gulp-less": "~1.2.1",
     "gulp-concat": "~2.1.7",
     "gulp-imagemin": "~0.1.4",
-    "gulp": "~3.5.1",
+    "gulp": "~3.5.2",
     "gulp-uglify": "~0.2.0",
     "connect-livereload": "~0.3.2",
     "connect": "~2.12.0",
     "gulp-uncss": "~0.2.1",
     "gulp-uncss-task": "~0.1.0",
-    "gulp-htmlmin": "~0.1.1"
+    "gulp-htmlmin": "~0.1.1",
+    "gulp-util": "~2.2.14"
   },
   "engines": {
     "node": ">=0.8.0"
